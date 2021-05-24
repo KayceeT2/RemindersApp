@@ -10,9 +10,8 @@ class ViewController: UIViewController {
     
     //MARK: - TableView Delegate Methods
     
-    //MARK: - Add New Items
-    
     //MARK: - Model Manipulation Methods
+    
+    //MARK: - Add New Items
 }
-
 //MARK: - Search Bar Methods
