@@ -1,4 +1,4 @@
-# RemindersApp - iOS14
+# RemindersApp - iOS15
 
 ## What We Will Create
 
